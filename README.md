@@ -1,26 +1,30 @@
 # Book Search Engine   
 
 ## Description   
-The app was built using the MERN stack, with a React front end, MongoDB database, and Node.js/Express.js server and API. It's already set up to allow users to save book searches to the back end.  
+This is a search engine using provided MERN stack, with a React front end, MongoDB database, and Node.js/Express.js server and API. This was refactored to GraphQL using Apollo client. It allows you to save books that you would like to buy or read, and delete when you they completed. 
 
 ***
 ### Table of Contents  
-1. [Screenshot]()
-2. [Deployed Link]()
-3. [Features]()
-4. [Contributors]()
-5. [Questions]()   
+1. [Screenshot](https://github.com/MLLynch2K/book-search-engine#screenshot)
+2. [Deployed Link](https://github.com/MLLynch2K/book-search-engine#deployed-link)
+3. [Features](https://github.com/MLLynch2K/book-search-engine#features)
+4. [Contributors](https://github.com/MLLynch2K/book-search-engine#contributors)
+5. [Questions](https://github.com/MLLynch2K/book-search-engine#questions)   
 
 ***   
 ### Screenshot   
-![]()    
+![](images/booksearch-sceenshot.png)    
 
 ***
 ### Deployed Link     
-[Budget Tracker]()   
+[Book Search]()   
 
 ***
 ### Features    
+MongoDB   
+Apollo   
+React   
+Express.js   
 
 ***
 ### Contributors  
