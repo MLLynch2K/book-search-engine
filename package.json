@@ -24,6 +24,7 @@
     "bcrypt": "^5.0.1",
     "caniuse-lite": "^1.0.30001205",
     "express": "^4.17.1",
+    "fund": "^1.0.0",
     "graphql": "^15.5.0",
     "if-env": "^1.0.4",
     "jsonwebtoken": "^8.5.1",
