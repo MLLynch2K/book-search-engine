@@ -18,6 +18,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@apollo/react-hooks": "^4.0.0",
+    "apollo-boost": "^0.4.9",
     "apollo-server-express": "^2.22.2",
     "bcrypt": "^5.0.1",
     "caniuse-lite": "^1.0.30001205",
