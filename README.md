@@ -17,7 +17,7 @@ This is a search engine using provided MERN stack, with a React front end, Mongo
 
 ***
 ### Deployed Link     
-[Book Search](https://booksearchapp2k.herokuapp.com/ )   
+[Book Search](https://booksearchapp2k.herokuapp.com/)   
 
 ***
 ### Features    
