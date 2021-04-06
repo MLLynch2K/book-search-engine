@@ -13,7 +13,7 @@ This is a search engine using provided MERN stack, with a React front end, Mongo
 
 ***   
 ### Screenshot   
-![](images/booksearch-sceenshot.png)    
+![](images/screenshot.png)    
 
 ***
 ### Deployed Link     
